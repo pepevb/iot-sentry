@@ -3,7 +3,7 @@
 ## Ejecución Rápida
 
 ```bash
-cd /Users/pepe/cursor/iot-sentry
+cd ~/iot-sentry
 ./RUN.sh
 ```
 
@@ -78,10 +78,10 @@ python test_lag.py
 ```bash
 # Verifica que estás en el directorio correcto
 pwd
-# Debería mostrar: /Users/pepe/cursor/iot-sentry
+# Debería mostrar: ~/iot-sentry
 
 # Si no, navega:
-cd /Users/pepe/cursor/iot-sentry
+cd ~/iot-sentry
 ```
 
 ### "Operation not permitted"

@@ -106,7 +106,7 @@ Una **aplicación nativa de macOS** para auditar la privacidad de dispositivos I
 
 ### Desarrollo (Script)
 ```bash
-cd /Users/pepe/cursor/iot-sentry
+cd ~/iot-sentry
 ./RUN.sh
 ```
 

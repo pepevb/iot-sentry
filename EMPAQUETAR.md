@@ -32,7 +32,7 @@
 ### 1. Preparación
 
 ```bash
-cd /Users/pepe/cursor/iot-sentry
+cd ~/iot-sentry
 source venv/bin/activate
 pip install py2app
 ```

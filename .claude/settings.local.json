@@ -1,14 +1,7 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python3 -m pip install:*)",
-      "Bash(source:*)",
-      "Bash(pip install:*)",
-      "Bash(chmod:*)",
-      "Bash(python -c:*)",
-      "Bash(python:*)",
-      "Bash(./cleanup.sh:*)",
-      "Bash(ls:*)"
+      "Bash(git add:*)"
     ]
   }
 }
