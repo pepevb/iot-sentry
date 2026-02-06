@@ -1,0 +1,30 @@
+# IoT Sentry - Aplicación Python Pura
+# Requisitos mínimos para funcionalidad completa
+
+# Network scanning y packet capture
+scapy>=2.5.0
+netifaces>=0.11.0
+
+# Database
+sqlalchemy>=2.0.0
+
+# Geolocation
+geoip2>=4.7.0
+maxminddb>=2.5.0
+
+# GUI
+PyQt6>=6.6.0
+PyQt6-WebEngine>=6.6.0  # Para mostrar mapas HTML
+pyqtgraph>=0.13.0       # Para gráficos de tráfico
+numpy>=1.24.0           # Requerido por pyqtgraph
+rumps>=0.4.0            # Menu bar para macOS
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Build y packaging
+pyinstaller>=6.0.0
+
+# Development (opcional)
+pytest>=7.4.0
+black>=23.10.0

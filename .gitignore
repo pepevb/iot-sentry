@@ -1,0 +1,90 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+ENV/
+env/
+
+# PyInstaller
+*.spec
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+data/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn/
+
+# Next.js
+.next/
+out/
+.vercel
+
+# Testing
+.coverage
+.pytest_cache/
+coverage/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.production
+.env.development
+
+# Logs
+*.log
+logs/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Shared databases (grandes, descargar con script)
+shared/databases/*.mmdb
+shared/databases/oui.txt
+
+# Build artifacts
+desktop/build/
+desktop/dist/
+*.dmg
+*.exe
+*.AppImage
+
+# Temporary files
+tmp/
+temp/
+*.tmp
